@@ -24,3 +24,5 @@ EXPOSE 80
 # RUN rm -rf shine shine.zip
 # CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 # EXPOSE 80   
+#Ramesh_DevOps_Project
+
